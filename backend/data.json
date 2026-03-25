@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Caterers",
+    "location": "Mumbai",
+    "pricePerPlate": 500,
+    "cuisines": ["Indian", "Chinese"],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Shree Catering",
+    "location": "Pune",
+    "pricePerPlate": 300,
+    "cuisines": ["South Indian"],
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Delight Caterers",
+    "location": "Nashik",
+    "pricePerPlate": 450,
+    "cuisines": ["North Indian", "Chinese"],
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Taste Buds Catering",
+    "location": "Delhi",
+    "pricePerPlate": 700,
+    "cuisines": ["Mughlai", "Indian"],
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Spice Villa Caterers",
+    "location": "Bangalore",
+    "pricePerPlate": 600,
+    "cuisines": ["South Indian", "North Indian"],
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "Urban Feast",
+    "location": "Hyderabad",
+    "pricePerPlate": 550,
+    "cuisines": ["Biryani", "Indian"],
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Grand Events Catering",
+    "location": "Chennai",
+    "pricePerPlate": 650,
+    "cuisines": ["South Indian", "Continental"],
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "name": "Food Fiesta",
+    "location": "Ahmedabad",
+    "pricePerPlate": 350,
+    "cuisines": ["Gujarati", "Indian"],
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Elite Caterers",
+    "location": "Kolkata",
+    "pricePerPlate": 480,
+    "cuisines": ["Bengali", "Chinese"],
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "name": "Happy Meals Catering",
+    "location": "Jaipur",
+    "pricePerPlate": 400,
+    "cuisines": ["Rajasthani", "Indian"],
+    "rating": 4.2
+  }
+]
